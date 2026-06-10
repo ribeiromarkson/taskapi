@@ -32,3 +32,14 @@ repository  -> realiza a comunicação com o banco de dados
 model       -> representa as entidades JPA
 dto         -> controla os dados de entrada e saída da API
 exception   -> centraliza o tratamento de erros
+```
+## Deploy's
+
+API publicada no Render:
+https://taskapi-9o37.onrender.com
+
+Swagger online:
+https://taskapi-9o37.onrender.com/swagger-ui/index.html
+
+Documentação OpenAPI:
+https://taskapi-9o37.onrender.com/v3/api-docs
