@@ -1,10 +1,10 @@
 # Task API
 
-API RESTful desenvolvida com Spring Boot para gerenciamento de tarefas.
+API RESTful feita com Spring Boot pra gerenciamento de tarefas.
 
 ## Descrição
 
-O projeto é um microserviço para cadastro e gerenciamento de tarefas. A aplicação inclui a criação de categorias, cadastro de tarefas, listar registros, buscar por ID, filtrar tarefas por status, atualizar e deletar tarefas.
+O projeto é um microserviço pra cadastro e gerenciamento de tarefas. A aplicação tem a criação de categorias, cadastro de tarefas, listar registros, buscar por ID, filtrar tarefas por status, atualizar e deletar tarefas.
 
 A entidade principal é `Tarefa`, que tem título, descrição, status, data de entrega e categoria. A entidade `Categoria` se relaciona com `Tarefa`, o que permite agrupar várias tarefas dentro da mesma categoria.
 
